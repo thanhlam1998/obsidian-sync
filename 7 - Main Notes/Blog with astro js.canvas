@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"4c0881251bbce833","type":"text","text":"Technologies","x":-160,"y":-380,"width":250,"height":60},
+		{"id":"a9aa27f02c03cabc","type":"text","text":"Astro js","x":-410,"y":-120,"width":250,"height":60},
+		{"id":"3342e6fe29a318f0","type":"text","text":"MDX","x":-700,"y":160,"width":250,"height":60},
+		{"id":"8fb8a66bfb803431","type":"text","text":"Bun","x":-100,"y":-110,"width":250,"height":50},
+		{"id":"f260d354e0e7cc23","type":"text","text":"TOC ( Table of Content)","x":-410,"y":160,"width":250,"height":60},
+		{"id":"562961ac63ecac4a","x":-720,"y":340,"width":400,"height":400,"type":"file","file":"obsidian-sync/2 - Daily Notes/08-August/2024-08-25.md"}
+	],
+	"edges":[
+		{"id":"6b1f3e506aef9426","fromNode":"4c0881251bbce833","fromSide":"bottom","toNode":"a9aa27f02c03cabc","toSide":"top"},
+		{"id":"ba6cb9708ee60da9","fromNode":"4c0881251bbce833","fromSide":"bottom","toNode":"8fb8a66bfb803431","toSide":"top"},
+		{"id":"bd7e017ede2d6012","fromNode":"a9aa27f02c03cabc","fromSide":"bottom","toNode":"3342e6fe29a318f0","toSide":"top"},
+		{"id":"fa500b296c28b46c","fromNode":"a9aa27f02c03cabc","fromSide":"bottom","toNode":"f260d354e0e7cc23","toSide":"top"}
+	]
+}
