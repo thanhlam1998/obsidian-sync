@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4c0881251bbce833","type":"text","text":"Technologies","x":-285,"y":-440,"width":250,"height":60},
+		{"id":"c88ca7be484810db","type":"text","text":"Bun","x":-35,"y":-820,"width":250,"height":60},
+		{"id":"a9aa27f02c03cabc","type":"text","text":"Astro js","x":-654,"y":-220,"width":250,"height":60,"color":"2"},
+		{"id":"0f54469174ad12d1","type":"text","text":"TOC (Table Of Content)","x":-529,"y":55,"width":250,"height":60},
+		{"id":"3342e6fe29a318f0","type":"text","text":"MDX","x":-904,"y":65,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"6b1f3e506aef9426","fromNode":"4c0881251bbce833","fromSide":"bottom","toNode":"a9aa27f02c03cabc","toSide":"top"},
+		{"id":"2ffc8b28f3554e64","fromNode":"4c0881251bbce833","fromSide":"top","toNode":"c88ca7be484810db","toSide":"bottom","label":"May try after"},
+		{"id":"989b67aa6923e7c5","fromNode":"a9aa27f02c03cabc","fromSide":"bottom","toNode":"3342e6fe29a318f0","toSide":"top"},
+		{"id":"d8b87541b1b54a6d","fromNode":"a9aa27f02c03cabc","fromSide":"bottom","toNode":"0f54469174ad12d1","toSide":"top"}
+	]
+}
